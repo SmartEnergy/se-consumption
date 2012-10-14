@@ -1,0 +1,11 @@
+Smart Energy (Uni Bremen)
+http://smartenergy.uni-bremen.de/
+
+smart energy Consumption
+(c) 2011-2012 by Philip Häusler <msquare@notrademark.de>
+
+Benutzt:
+ * jQuery als JavaScript-Framework
+ * jqplot as Graph-Bibliothek
+
+smart engergy Consumption ist eine digitalSTROM Server App, die die aktuellen und vergangenen Verbräuche (Metering) eines digitalSTROM-Setups anzeigt und auswertet.
